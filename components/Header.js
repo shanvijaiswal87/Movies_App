@@ -30,8 +30,8 @@ const Header = () => {
       const options = {
         method: 'GET',
         headers: {
-          'X-RapidAPI-Key': 'b676e72403msh47ad6be776c4416p128de0jsnf0f889e3cd92',
-          'X-RapidAPI-Host': 'movies-api14.p.rapidapi.com'
+          'X-RapidAPI-Key': '*****************',
+          'X-RapidAPI-Host': '*******************'
         }
       };
 
