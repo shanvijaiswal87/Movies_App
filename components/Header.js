@@ -26,7 +26,7 @@ const Header = () => {
 
   useEffect(() => {
     const fetchRandomPoster = async () => {
-      const url = 'https://movies-api14.p.rapidapi.com/movies';
+      const url = 'https://movies-api.p.rapidapi.com/movies';
       const options = {
         method: 'GET',
         headers: {
