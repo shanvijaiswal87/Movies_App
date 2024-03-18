@@ -3,7 +3,7 @@
 
 // const MovieRow = ({ title, url }) => {
 //   console.log(url);
-//   const API_KEY = "588691f9";
+//  
 //   const [movies, setMovies] = useState([]);
 
 //   useEffect(() => {
